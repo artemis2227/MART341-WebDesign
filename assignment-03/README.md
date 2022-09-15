@@ -7,6 +7,6 @@
 
 
 
-[Respones file](responses.txt)
+[Responses file](responses.txt)
 
 ![Screenshot of work](images/homework-3-screenshot.JPG)
