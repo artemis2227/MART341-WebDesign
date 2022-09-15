@@ -1,0 +1,9 @@
+Hello world!
+What is the relationship between an IP address and the DNS?
+    - An IP address is the identifying address assigned to a device to be identifiable on a network. Websites and web browsers communicate using these IP address. A DNS (Domain Name Service) essentially translates a normal-looking url (www.google.com) into an IP address for browsers and the network to use it to retrieve the website. To use an analogy, the IP address is the phone number and the DNS is the operator or phonebook. 
+What is a cookie?
+    - A cookie is a small text file stored by a browser, containing things like usernames and passwords, that the browser automtically sends to network to identify a user's computer/credentials on their second-and-beyond visit to a website. It allows users to not need to enter their credentials every time they access a website.
+What are the three essential parts of a URL?
+    - The protocol - HTTP or HTTPS, at the start of the URL
+    - the domain name (the actual address most users think of), in the middle (ex.: zeldadungeon.net)
+    - the path for the specific web page, on the end (ex.: twilight-princess-walkthrough)
