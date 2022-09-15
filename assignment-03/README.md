@@ -1,4 +1,4 @@
-# README Assignemnt 3
+# README Assignment 3
 
 3 Things I have learned in this class so far:
 1. Learned what DNS actually is after having heard of it for a long time and not actually knowing
