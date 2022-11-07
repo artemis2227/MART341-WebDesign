@@ -1,0 +1,51 @@
+body {
+    background-color: ivory;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+div {
+    border: 2px solid#1E3445;
+    display: inline-block;
+    padding: 10px;
+}
+
+img {
+    border: 10px solid#1e3445;
+}
+
+.special {
+    background-color: #322148;
+}
+
+#title {
+    color: #25254b;
+}
+
+.palette{
+    background-color: white;
+    width: 800px;
+}
+
+.dot {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.dot.one {
+    background-color: #25254b;
+}
+
+.dot.two {
+    background-color: #1e3445;
+}
+
+.dot.three {
+    background-color: #322148;
+}
+
+.dot.four {
+    background-color: #0c0c30;
+}
