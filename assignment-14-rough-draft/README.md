@@ -1,0 +1,3 @@
+Users will want to visit my website if they want to learn about me (or just look at pictures of my cat, which like, fair)
+
+Responsive web design is important because you (the creator and coder) do not know how your user will access a website. There's a good chance it'll be a computer, but its even more likely the user will access your website on a mobile phone or tablet. Making a website with responsive design means making sure it will function properly and efficiently no matter how it is accessed, and if you don't do that, you're alienating any user that tries to access your website on anything other than the platform/screen size you had in mind while designing. Make your websites responsive!
