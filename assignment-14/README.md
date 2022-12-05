@@ -1,0 +1,3 @@
+The user testing went great! My friends were very kind to give their time. It was especially helpful to have both viewpoints as Heidi was very knowledgable about deeper Web Design concepts and my roommate Juliana was an untrained set of eyes. 
+
+I have changed the metadata error and have made more plans on what formatting to do. I'm incredibly stressed out and crunched on time so didn't get to quite everything I wanted to do, but I have the to-do list going at least.

@@ -1,0 +1,162 @@
+body {
+    background-color: ivory;
+    font-family:'Baskerville', 'Libre Baskerville', Arial, sans-serif;
+    text-align: center;
+}
+
+.body-text {
+    border: 2px solid#1E3445;
+    display: inline-block;
+    padding: 10px;
+}
+
+img {
+    border: 10px solid#1e3445;
+}
+
+.special {
+    background-color: #322148;
+}
+
+#title {
+    color: #25254b;
+}
+
+#title:hover {
+    font-weight: bold;
+    font-style: italic;
+}
+
+a:link {
+    color: #0c0c30;
+}
+
+a:visited {
+    color: #322148;
+}
+
+.palette{
+    background-color: white;
+    width: 800px;
+    border: 2px solid#1E3445;
+    display: inline-block;
+    padding: 10px;
+}
+
+.dot {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.dot.one {
+    background-color: #25254b;
+}
+
+.dot.two {
+    background-color: #1e3445;
+}
+
+.dot.three {
+    background-color: #322148;
+}
+
+.dot.four {
+    background-color: #0c0c30;
+}
+
+/*Menu Styling*/
+header {
+    background-color: #0c0c30;
+    width: 99%;
+    padding-right: 1em;
+    height: 4em;
+    top: 0px;
+    font-family: LibreBaskerville-Bold;
+    text-align: right;
+}
+
+/*Menu Layout*/
+
+.site-title {
+    margin: 1em .2em;
+    background-color: ivory;
+    padding: 0.5em 1em .5em 1em;
+    border-radius: 1em;
+    float: left;
+    font-weight: bolder;
+}
+
+.menu-option {
+    display: inline-block;
+    margin: 1em .2em;
+    background-color: ivory;
+    padding: 0.5em 1em;
+    border-radius: 1em;
+    text-align: center;
+}
+
+
+
+/*Link Styling*/
+.menu-option a {
+    color: #0c0c30;
+}
+
+.menu-option:hover {
+    background-color: #1e3445;
+}
+/* Dropdown styling */
+.dropdown {
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    margin: 0.5em 0 0 -1em;
+    color: #1e3445;
+    background-color: ivory;
+    z-index: 1;
+    border-radius: 0em 0em 1em 1em;
+}
+
+.dropdown {
+    background-color: ivory;
+    color: #0c0c30;
+    border-radius: 1em;
+    margin: 1em .2em;
+    padding: 0.5em 1em;
+}
+
+
+a:hover {
+    color :ivory;
+}
+
+.dropdown:hover {
+    color: ivory;
+    background-color: #1e3445;
+}
+
+.dropdown:hover .dropdown-content{
+    display: block;
+}
+
+
+
+/* Dropdown Item Display Styling*/
+.dropdown-option {
+    display: block;
+    text-align: left;
+    margin: 0;
+    padding: 0.5em 1em 0.5em 1em;
+    min-width: 5em;
+}
+
+.dropdown-option:hover, .dropdown-option:hover a{
+    color: ivory;
+    background-color: #1e3445;
+}
+
