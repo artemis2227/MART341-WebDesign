@@ -1,0 +1,5 @@
+++edit metadata for each page
++-add content to all pages
+++re-organize content on index
+++decide if there needs to be another page under "more"
++-make it pretty! add buttons to homepage
