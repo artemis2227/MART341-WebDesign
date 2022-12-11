@@ -1,0 +1,1 @@
+This final project is a short Bibliography to capture a bit of my life and personality. I wanted to do more with making it pretty and formatting, but needed to realistically scale that back given how many other things I had going on in the past few weeks. That being said, I am proud of my work, and hope you find it enjoyable!
